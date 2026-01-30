@@ -1,0 +1,5 @@
+{
+  "name": "GCM Vale Alimentação 2026",
+  "description": "Aplicativo para conferência de vale alimentação da Guarda Civil Municipal (GCM), baseado na escala 12x36 e pagamentos antecipados com descontos de faltas/atestados.",
+  "requestFramePermissions": []
+}
